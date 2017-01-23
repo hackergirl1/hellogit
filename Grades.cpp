@@ -1,7 +1,7 @@
 #include "Grades.h"
 #include<iostream>
 void Grades::set_grade(char a){
-	grade = 'a';
+	grade = a;
 }
 void Grades::set_mark(int b){
 	mark = b;
